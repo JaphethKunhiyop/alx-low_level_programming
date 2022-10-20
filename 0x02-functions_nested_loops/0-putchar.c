@@ -3,7 +3,7 @@
 /**
  *main - function prints text as output
  *
- * Return: return 0 
+ * Return: return 0
  */
 
 int main(void)
@@ -16,7 +16,7 @@ int main(void)
 	{
 		_putchar(college[i]);
 	}
-	_putchar(10);
+	_putchar('\n');
 
 	return (0);
 }
